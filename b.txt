@@ -1,4 +1,4 @@
 line b1 - modified commit 3
 line b2 - modified 10th commit right
-line b3
+line b3 - modified 11th commit right
 line b4
