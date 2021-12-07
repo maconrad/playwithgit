@@ -1,4 +1,4 @@
-line a1
+line a1 - modified commit 4
 line a2 - modified commit 2
 line a3 - modified commit 3
 line a4
