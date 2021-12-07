@@ -7,4 +7,5 @@ line a6 - added commit 3 - modified 8th right
 line a7 - added commit 3
 line a8 - added commit 3
 line a9 - added commit 3
-line a9 - added feature3
+line a9 - added feature3 - commit 1
+line a9 - added feature3 - commit 2
