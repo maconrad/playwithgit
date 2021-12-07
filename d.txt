@@ -3,3 +3,4 @@ remain on master - line 2
 remain on master - line 3
 remain on feature2 - line 4
 remain on feature2 - line 5
+remain on master - after feature2 - line 6
