@@ -1,1 +1,2 @@
 feature4b - line 1
+bugfix2 - line 1
