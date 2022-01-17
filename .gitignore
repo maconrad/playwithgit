@@ -3,4 +3,5 @@ m.txt
 .vscode/
 *.log
 *.html
+*.htm
 *.css
